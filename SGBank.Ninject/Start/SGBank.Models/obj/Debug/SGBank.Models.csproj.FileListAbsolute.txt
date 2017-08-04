@@ -1,0 +1,15 @@
+C:\Users\jason\Repos\swcguild\SWG-Work\jason-hanson-individual-work\Section4\SGBank\Start\SGBank.Models\bin\Debug\SGBank.Models.dll
+C:\Users\jason\Repos\swcguild\SWG-Work\jason-hanson-individual-work\Section4\SGBank\Start\SGBank.Models\bin\Debug\SGBank.Models.pdb
+C:\Users\jason\Repos\swcguild\SWG-Work\jason-hanson-individual-work\Section4\SGBank\Start\SGBank.Models\obj\Debug\SGBank.Models.dll
+C:\Users\jason\Repos\swcguild\SWG-Work\jason-hanson-individual-work\Section4\SGBank\Start\SGBank.Models\obj\Debug\SGBank.Models.pdb
+C:\Repos\swcguild\SWG-Work\jason-hanson-individual-work\Section4\SGBank\Start\SGBank.Models\bin\Debug\SGBank.Models.dll
+C:\Repos\swcguild\SWG-Work\jason-hanson-individual-work\Section4\SGBank\Start\SGBank.Models\bin\Debug\SGBank.Models.pdb
+C:\Repos\swcguild\SWG-Work\jason-hanson-individual-work\Section4\SGBank\Start\SGBank.Models\obj\Debug\SGBank.Models.dll
+C:\Repos\swcguild\SWG-Work\jason-hanson-individual-work\Section4\SGBank\Start\SGBank.Models\obj\Debug\SGBank.Models.pdb
+C:\Repos\swcguild\SWG-Work\jason-hanson-individual-work\Section4\SGBank.Ninject\Start\SGBank.Models\bin\Debug\SGBank.Models.dll
+C:\Repos\swcguild\SWG-Work\jason-hanson-individual-work\Section4\SGBank.Ninject\Start\SGBank.Models\bin\Debug\SGBank.Models.pdb
+C:\Repos\swcguild\SWG-Work\jason-hanson-individual-work\Section4\SGBank.Ninject\Start\SGBank.Models\bin\Debug\Ninject.dll
+C:\Repos\swcguild\SWG-Work\jason-hanson-individual-work\Section4\SGBank.Ninject\Start\SGBank.Models\bin\Debug\Ninject.xml
+C:\Repos\swcguild\SWG-Work\jason-hanson-individual-work\Section4\SGBank.Ninject\Start\SGBank.Models\obj\Debug\SGBank.Models.csprojResolveAssemblyReference.cache
+C:\Repos\swcguild\SWG-Work\jason-hanson-individual-work\Section4\SGBank.Ninject\Start\SGBank.Models\obj\Debug\SGBank.Models.dll
+C:\Repos\swcguild\SWG-Work\jason-hanson-individual-work\Section4\SGBank.Ninject\Start\SGBank.Models\obj\Debug\SGBank.Models.pdb
